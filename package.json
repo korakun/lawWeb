@@ -1,0 +1,21 @@
+{
+    "name": "law-firm-website-template",
+    "version": "1.0.0",
+    "description": "law-firm-website-template",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "[];"
+    ],
+    "author": "hngr",
+    "license": "ISC",
+    "dependencies": {
+        "jquery": "^3.4.1",
+        "jsdom": "^24.0.0",
+        "main.js": "^0.0.1",
+        "node": "^22.2.0"
+    }
+}
